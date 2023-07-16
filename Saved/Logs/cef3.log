@@ -1,0 +1,20 @@
+[0715/005505.733:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0715/005939.072:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/005939.109:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/005944.087:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/005944.114:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/093555.109:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/093555.193:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0715/100039.283:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100039.336:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
+[0715/100039.587:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100039.915:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100039.930:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
+[0715/100040.246:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100040.260:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 3 time(s)
+[0715/100040.578:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100040.587:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 4 time(s)
+[0715/100040.912:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100040.921:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 5 time(s)
+[0715/100041.246:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
+[0715/100041.315:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 6 time(s)
